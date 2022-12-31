@@ -1,2 +1,3 @@
 # cpp-basics
-OTUS cpp basics
+OTUS C++ basics repo
+first description
