@@ -1,3 +1,3 @@
 # cpp-basics
 OTUS C++ basics repo
-Edited after homework is done
+edited after homework is done
