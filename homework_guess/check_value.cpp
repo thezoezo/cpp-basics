@@ -54,7 +54,7 @@ int main()
     if (in_file.is_open())
     {
         std::cout << "High scores table:" << std::endl;
-        while (getline(in_file, line))
+        while (std::getline(in_file, line))
         {
             std::cout << line << std::endl;
         }
